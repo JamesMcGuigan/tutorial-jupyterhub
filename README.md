@@ -5,8 +5,9 @@ This is a sandbox repo primarially for the purposes of documenting how to instal
 ## Documentation
 
 ### Read Cover to Cover
-- https://jupyterhub.readthedocs.io/en/latest/index.html - Main Documentation for Jupyter Hub
-- https://jupyter.readthedocs.io/en/latest/              - Main Documentation for Jupyter
+- https://jupyterhub.readthedocs.io/en/latest/index.html                   - Main Documentation for Jupyter Hub
+- https://jupyterhub-tutorial.readthedocs.io/en/latest/jhubcheatsheet.html - Jupyter Hub Tutorial
+- https://jupyter.readthedocs.io/en/latest/                                - Main Documentation for Jupyter
 
 ### Videos
 - https://www.youtube.com/watch?v=bNq8_nSiQXc - JupyterHub as an Interactive Supercomputing Gateway | SciPy 2016 | Michael Milligan
